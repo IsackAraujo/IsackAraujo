@@ -8,7 +8,6 @@ I've been learning code since 2018
 
 *  I'm based in Brazil
 *  You can contact me at [isackaraujoc@gmail.com](mailto:isackaraujoc@gmail.com)
-*  Working with Flutter <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="20" height="20" alt="Flutter" /> 
 
 ### Skills
 
